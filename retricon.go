@@ -1,4 +1,4 @@
-package retricon
+package retricon // import "src.techknowlogick.com/retricon"
 
 import (
 	"crypto/sha512"
