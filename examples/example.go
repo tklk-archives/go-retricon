@@ -4,7 +4,7 @@ import (
 	"os"
 	"fmt"
 	"image/png"
-	"github.com/techknowlogick/go-retricon"
+	"src.techknowlogick.com/retricon"
 )
 
 func main() {
